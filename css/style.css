@@ -39,6 +39,10 @@ h1 {
   font-weight: 700;
   margin-top: 0; }
 
+.adec:hover{
+  text-decoration: none;
+}
+
 h2 {
   font-size: 32px;
   font-size: 2em;
