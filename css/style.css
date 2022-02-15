@@ -42,6 +42,10 @@ h1 {
 .adec:hover{
   text-decoration: none;
 }
+.imgsize{
+  width: 400px;
+  height: 600px;
+}
 
 h2 {
   font-size: 32px;
